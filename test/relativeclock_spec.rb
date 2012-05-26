@@ -6,7 +6,7 @@ describe SingaporeRelativeClock do
 	end
 
 	it "should return -2 for Sydney" do
-            @clock.timeDifferenceTo("Sydney")should===-2 
+            @clock.timeDifferenceTo("Sydney").should===-2 
 	end
 
 
