@@ -6,5 +6,4 @@ class SingaporeRelativeClock
          def timeDifferenceTo(city)
          -2
          end
-
 end
